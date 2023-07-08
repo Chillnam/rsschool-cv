@@ -1,1 +1,1 @@
-# rsschool-cv
+https://chillnam.github.io/rsschool-cv/cv
