@@ -1,1 +1,1 @@
-https://chillnam.github.io/rsschool-cv/
+https://chillnam.github.io/rsschool-cv/index.html
